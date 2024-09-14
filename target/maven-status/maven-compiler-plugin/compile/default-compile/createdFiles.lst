@@ -1,0 +1,11 @@
+com\CoNickel\chatapp\services\MessageService.class
+com\CoNickel\chatapp\Controller.class
+com\CoNickel\chatapp\model\UserRepository.class
+com\CoNickel\chatapp\model\MessagesRepository.class
+com\CoNickel\chatapp\services\UserService.class
+com\CoNickel\chatapp\services\WebConfig.class
+com\CoNickel\chatapp\model\Messages.class
+com\CoNickel\chatapp\ChatappApplication.class
+com\CoNickel\chatapp\model\User.class
+com\CoNickel\chatapp\customMessage.class
+com\CoNickel\chatapp\services\WebConfig$1.class
